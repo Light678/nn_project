@@ -22,10 +22,10 @@ Note: ChatGPT was used as support for debugging and commenting the scripts.
 ## Repository Structure
 ```
 NN-Project/
-├── Baseline                   ← BERT Baseline
-├── Report                     ← Final report
-├── Variant_1_local_window     ← BERT with Local Window Variant 
-├── Variant_2_longform         ← BERT with Longform Variant
+├── Baseline                   ← BERT Baseline (Final_NN_baseline.ipynb)
+├── Report                     ← Final report (NN_project_Jonas_Lütticken.pdf)
+├── Variant_1_local_window     ← BERT with Local Window Variant (NN_local_window_1.ipynb)
+├── Variant_2_longform         ← BERT with Longform Variant (NN_longform_2.ipynb)
 ├── README.md                  ← This file
 ├── requirements.txt           ← libraries requirements
 
